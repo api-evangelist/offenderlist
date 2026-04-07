@@ -5,8 +5,7 @@ url: >2-
 apis:
   - aid: offenderlist:offenderlist
     name: OffenderList
-    tags:
-      - API
+    tags: []
     humanURL: https://offenderlist.us/
     properties:
       - url: https://offenderlist.us/
