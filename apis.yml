@@ -8,7 +8,7 @@ description: >-
   mugshot, charges, conviction date, and sentence length. OffenderList provides security
   and information-focused organizations API access, batch requests, remote access,
   and internal access to a national sex offender database.
-type: Contract
+kind: contract
 position: Consumer
 access: 3rd-Party
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
