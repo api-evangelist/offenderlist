@@ -35,8 +35,12 @@ apis:
       - type: Documentation
         url: https://offenderlist.us/
 common:
+  - type: DomainSecurity
+    url: security/offenderlist-domain-security.yml
   - type: Website
     url: https://offenderlist.us/
+  - url: https://offenderlist.us/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
