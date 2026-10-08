@@ -58,6 +58,12 @@ apis:
       - type: Documentation
         url: https://offenderlist.us/
 common:
+  - type: Plans
+    url: plans/offenderlist-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/offenderlist-rate-limits.yml
+  - type: FinOps
+    url: finops/offenderlist-finops.yml
   - type: DomainSecurity
     url: security/offenderlist-domain-security.yml
   - type: Website
